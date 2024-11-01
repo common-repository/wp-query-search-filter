@@ -1,0 +1,298 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WQSF\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-31 02:36+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: tc <geekykuan@ymail.com>\n"
+"Language-Team:  <devildai@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wp-query-search-filter.php:65
+msgid "Custom Post Type"
+msgstr "自定义文章类型"
+
+#: wp-query-search-filter.php:66
+#: html/taxonomy_select.php:23
+#: html/taxonomy_select.php:33
+msgid "Taxonomy"
+msgstr "分类"
+
+#: wp-query-search-filter.php:67
+msgid "Custom Meta Field"
+msgstr "自定义栏目"
+
+#: wp-query-search-filter.php:73
+#: wp-query-search-filter.php:101
+#: wqsf-widget.php:10
+msgid "WP Query Search Filter"
+msgstr "WP Query过滤搜索"
+
+#: wp-query-search-filter.php:105
+msgid "Save Changes"
+msgstr "保存更改"
+
+#: wqsf-widget.php:8
+msgid "This widget displays the search form at front end."
+msgstr "这挂件在前端展示搜索表格"
+
+#: wqsf-widget.php:17
+#: wqsf-widget.php:36
+msgid "WQSF Search Filter"
+msgstr "WQSF过滤搜索"
+
+#: wqsf-widget.php:100
+msgid "Search"
+msgstr "搜索"
+
+#: html/cpt_select.php:2
+msgid "Choose the post type you want to include in the search"
+msgstr "请选择您要搜索的文章类型"
+
+#: html/taxonomy_select.php:4
+msgid "Boolean relationship between the taxonomy queries"
+msgstr "分类查询的布尔型关系"
+
+#: html/taxonomy_select.php:10
+msgid "AND - Must meet all taxonomy search."
+msgstr "AND - 必须满足所有分类搜索。"
+
+#: html/taxonomy_select.php:11
+msgid "OR - Either one of the taxonomy search is meet."
+msgstr "OR - 只需满足其中一个分类搜索。"
+
+#: html/taxonomy_select.php:18
+#: html/add_taxo_form.php:39
+msgid "Add Taxonomy"
+msgstr "添加分类"
+
+#: html/taxonomy_select.php:24
+#: html/taxonomy_select.php:34
+#: html/add_taxo_form.php:24
+#: html/cmf_select.php:24
+#: html/cmf_select.php:34
+#: html/add_cmf_form.php:10
+msgid "Label"
+msgstr "标签"
+
+#: html/taxonomy_select.php:25
+#: html/taxonomy_select.php:35
+#: html/cmf_select.php:25
+#: html/cmf_select.php:35
+msgid "\"Search All\" Text"
+msgstr "“全部搜索”文本"
+
+#: html/taxonomy_select.php:26
+#: html/taxonomy_select.php:36
+msgid "Hide Empty?"
+msgstr "隐藏空的分类项目"
+
+#: html/taxonomy_select.php:27
+#: html/taxonomy_select.php:37
+#: html/cmf_select.php:28
+#: html/cmf_select.php:38
+msgid "Remove?"
+msgstr "删除？"
+
+#: html/taxonomy_select.php:57
+#: html/add_taxo_ajax.php:19
+#: html/add_taxo_form.php:8
+msgid "category"
+msgstr "分类"
+
+#: html/taxonomy_select.php:82
+#: html/add_taxo_ajax.php:43
+#: html/cmf_select.php:75
+#: html/add_cmf_ajax.php:30
+msgid "Remove"
+msgstr "删除"
+
+#: html/add_taxo_form.php:3
+msgid "Taxonomy Details"
+msgstr "分类详情"
+
+#: html/add_taxo_form.php:6
+msgid "Select Taxonomy"
+msgstr "选择分类"
+
+#: html/add_taxo_form.php:26
+#: html/add_cmf_form.php:12
+msgid "To be displayed in the search form"
+msgstr "将显示在搜索表内"
+
+#: html/add_taxo_form.php:29
+#: html/add_cmf_form.php:15
+msgid "Text For 'Search All' Options"
+msgstr "'全部搜索'的文本"
+
+#: html/add_taxo_form.php:31
+msgid "eg, All cities, All genres"
+msgstr "列如：全部城市，全部类型"
+
+#: html/add_taxo_form.php:34
+msgid "Hide Empty Terms?"
+msgstr "隐藏空的分类项目？"
+
+#: html/add_taxo_form.php:37
+msgid "Empty terms are the terms that no posts assigned to them. "
+msgstr "所谓空的分类项目是没有文章分配到其下的分类项目。"
+
+#: html/cmf_select.php:4
+msgid "Boolean relationship between the meta queries"
+msgstr "自定义栏目属性查询的布尔型关系"
+
+#: html/cmf_select.php:11
+msgid "AND - Must meet all meta field search."
+msgstr "AND - 必须满足所有自定义栏目属性查询搜索。"
+
+#: html/cmf_select.php:12
+msgid "OR - Either one of the meta field search is meet."
+msgstr "OR - 只需满足其中一个自定义栏目属性查询搜索。"
+
+#: html/cmf_select.php:17
+msgid "Add Custom Meta"
+msgstr "添加自定义栏目属性"
+
+#: html/cmf_select.php:23
+#: html/cmf_select.php:33
+msgid "Meta key"
+msgstr "自定义栏目属性键"
+
+#: html/cmf_select.php:26
+#: html/cmf_select.php:36
+#: html/add_cmf_form.php:20
+msgid "Compare"
+msgstr "对比"
+
+#: html/cmf_select.php:27
+#: html/cmf_select.php:37
+msgid "Options"
+msgstr "选项"
+
+#: html/add_cmf_form.php:4
+msgid "Meta Field Setting"
+msgstr "自定义栏目设置"
+
+#: html/add_cmf_form.php:5
+msgid "Meta Key"
+msgstr "自定义栏目属性键"
+
+#: html/add_cmf_form.php:7
+msgid "Insert the meta key. The meta key should exactly same as you define. It is case sensitive. "
+msgstr "请输入自定义栏目属性键。此键必须和您所定义的一样。注意大小写敏感！"
+
+#: html/add_cmf_form.php:17
+msgid "eg, All prices, All weight"
+msgstr "列如：所有价格，全部重量"
+
+#: html/add_cmf_form.php:28
+msgid "Operator to test. Use it carefully. If you choose 'BETWEEN', then your options should be range."
+msgstr "运算符测试。请谨慎选择。如您选择‘BETWEEN’，那么你的选项类型应该是属于范围/幅度类。"
+
+#: html/add_cmf_form.php:30
+#, php-format
+msgid "More about compare, please visit <a href='%s' target='_blank'>here</a>"
+msgstr "更多对比运算符的介绍，请参考<a href='%s' target='_blank'>这里</a>（英）"
+
+#: html/add_cmf_form.php:34
+msgid "Dropdown Options"
+msgstr "下拉选项"
+
+#: html/add_cmf_form.php:36
+msgid "Your options should be exactly same you inserted in your posts. Use '|' to separating your option. For range option, using '-' to define the range. "
+msgstr "您所定义的选项应该和你在文章里输入的自定义栏目属性值一样。请使用 “|” 分隔每一个选项。至于幅度/范围类选项，请用‘-’来定义的范围/幅度内。"
+
+#: html/add_cmf_form.php:37
+msgid "eg: for normal option value 1 | value 2 | value 3...etc"
+msgstr "例如：一般的选项该如此输入 一月 | 二月 | 三月 | ...等。"
+
+#: html/add_cmf_form.php:38
+msgid "eg: for range option 1-100 | 101-200 | 201-300...etc"
+msgstr "列如2：对于幅度/范围类的选项，该如此输入 1-100 | 101-200 | 201-300...等。"
+
+#: html/add_cmf_form.php:42
+msgid "Add Custom Field"
+msgstr "添加自定义栏目"
+
+#: html/misc.php:4
+msgid "Search by Keyword"
+msgstr "关键词搜索"
+
+#: html/misc.php:14
+msgid "Add String Search?"
+msgstr "添加文本搜索？"
+
+#: html/misc.php:15
+msgid "Enabling string search"
+msgstr "启用文本搜索"
+
+#: html/misc.php:16
+msgid "This will add string search in the form. Note that when user using this to search, the taxonomy and custom meta filter that defined above will not be used. However, the search will still go through the post type defined above."
+msgstr "这将会添加文本搜索框在搜索表内。请注意，当用户使用文本搜索，上面所设置的分类搜索和自定义栏目属性搜索将不被使用。但是，还是会从以上所设置的文章类型内搜索。"
+
+#: html/misc.php:17
+msgid "Label for string search."
+msgstr "文本搜索的标签"
+
+#: html/misc.php:23
+msgid "Result Page Setting"
+msgstr "搜索结果页面设置"
+
+#: html/misc.php:24
+msgid "Sorting Meta Key."
+msgstr "排序自定义栏目属性键"
+
+#: html/misc.php:26
+msgid "Insert the meta key that will be used for the result sorting. Leave empty will using the default 'date' value for sorting."
+msgstr "如输入排序自定义栏目属性键，它的值将被用于编排搜索结果。留空将使用默认的“日期”值进行排序。"
+
+#: html/misc.php:28
+msgid "Meta Value Type"
+msgstr "自定义栏目属性值类型"
+
+#: html/misc.php:29
+msgid "Words"
+msgstr "字符"
+
+#: html/misc.php:30
+msgid "Numeric"
+msgstr "数字"
+
+#: html/misc.php:31
+msgid "What is the meta value type of the sorting meta key? eg. sorting meta key = 'price', then the meta value type should be numeric. Leave it blank if your sorting meta key is empty."
+msgstr "自定义栏目属性值类型是属于那一类？例如，如自定义栏目属性是‘价格’，那么自定义栏目属性值类型就是属于数字。留空不填如果您没输入排序自定义栏目属性键。"
+
+#: html/misc.php:33
+msgid "Sorting Order"
+msgstr "排序顺序"
+
+#: html/misc.php:34
+msgid "Descending"
+msgstr "降序"
+
+#: html/misc.php:35
+msgid "Ascending"
+msgstr "升序"
+
+#: html/misc.php:36
+msgid "The search result sorting order. Default is descending"
+msgstr "搜索结果的排序顺序。默认值是降序。"
+
+#: html/misc.php:38
+msgid "Results per Page"
+msgstr "每页搜索结果数量"
+
+#: html/misc.php:40
+msgid "How many posts shows at each result page?"
+msgstr "每页搜索结果的文章数量。"
+
+#~ msgid "Add search by String?"
+#~ msgstr "添加文本搜索？"
+#~ msgid "Edit"
+#~ msgstr "编辑"
+

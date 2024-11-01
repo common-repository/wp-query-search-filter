@@ -1,0 +1,23 @@
+/*
+Default style for WP Query Search Filter plugin
+
+Simply refer to this to styling your form
+
+
+*/
+
+
+/*the form id*/
+#wqsf_search_form{padding:5px;border:1px #ccc solid;}
+/*each input div*/
+.wqsf_box {margin-bottom:5px;margin-left:5%}
+/*dropdown box width*/
+.wqsf_box select {width:90%;}
+/*Label of each input*/
+#wqsf_search_form label{font-weight:bold;font:12px;float:left}
+/*text search input width*/
+input#wqsf_keyword{width:90%}
+/*id of search button*/
+#wqsf_submit{}
+/*search button div and label*/
+p.wqsf-button, label.wqsf-label-keyword{text-align:center;width:90%;}
